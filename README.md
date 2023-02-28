@@ -7,3 +7,4 @@
 * May or may not work for everyone.
 * Install Libraries required to run.
 * Don't ask questions.
+* I'm using these scripts to backup TG Archive Data.
